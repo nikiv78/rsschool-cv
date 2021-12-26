@@ -17,4 +17,26 @@
    * Стрессоусточивость;
    * Работа в команде, легко нахожу общий язык с новыми для меня людьми;
 2. Experience:
-   * 8 лет работы в сфере продаж.
+   * 8 лет работы в сфере продаж.## Skills
+***
+* HTML (Basic);
+* CSS (Basic);
+* Python (Basic)
+
+## Code example
+a = int(input())
+if (a % 2 != 0 or a == 3 or a == 5) or (a % 2 == 0 and 6 <= a <= 20):
+    print('YES')
+else:
+    print('NO')
+
+## Experience
+***
+
+## Education
+***
+* Основы HTML и CSS [Текст ссылки](https://stepik.org/course/52164/promo)
+
+## English
+***
+A2
